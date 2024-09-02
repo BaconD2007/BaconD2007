@@ -1,9 +1,4 @@
-- 👋 Oi, Meu nome é @BaconD2007
-- 👀 Me interesso por tudo praticamente 
-- 🌱 Uso python 
-- 😄 Pronouns: Me chama de tudo 
-
-<!---
-BaconD2007/BaconD2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+olá = input("{Olá},meu nome e Bacon")
+print(f"👀 Me interesso por tudo praticamente")
+print(f" 🌱 Uso python")
+print(f"😄 Pronouns: Me chama de tudo") 
